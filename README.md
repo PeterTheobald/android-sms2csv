@@ -23,7 +23,7 @@ The following files are detected and reported but don't yet parse:
   - TODO com.android.providers.telephony/databases/mmssms.db
   - TODO com.google.android.apps.messaging/databases/bugle_db\
       or com.android.messaging/databases/bugle_db
-  - TODO calllog.db
+  - TODO calllog.db\
   also look into adding support for whatsapp, facebook, kik etc
 
 In order to obtain an Android backup from a phone in the first place, try the following:
