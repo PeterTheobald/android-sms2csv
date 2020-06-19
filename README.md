@@ -16,7 +16,7 @@ Android backups are often packaged as TAR files or AB files (modified TAR format
 which contain the Android filesystem within them. These must be unpacked to
 files and folders first for android-sms2csv to work. 
 - for TAR files, use 7ZIP or similar (free) program
-- for AB files, use Andriller or similar (free) program
+- for AB files, use Andriller or similar (free) program\
 TODO: Add auto-scanning or unpacking of TAR and AB files
 
 The following files are detected and reported but don't yet parse:
